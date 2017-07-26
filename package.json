@@ -28,8 +28,5 @@
     "karma-webpack": "^1.8.0",
     "mocha": "^3.4.2",
     "webpack": "^1.13.2"
-  },
-  "dependencies": {
-    "react": "^15.6.1"
   }
 }

@@ -1,5 +1,4 @@
 // Karma configuration
-// Generated on Mon Sep 12 2016 19:21:06 GMT+0800 (中国标准时间)
 module.exports = function(config) {
   config.set({
     basePath: '',
@@ -27,7 +26,7 @@ module.exports = function(config) {
     logLevel: config.LOG_INFO,
     autoWatch: true,
     browsers: ['Chrome'],
-    singleRun: true,
+    singleRun: false,
     concurrency: Infinity,
     webpack: {
       module: {

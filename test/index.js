@@ -8,4 +8,5 @@ describe("test module src/index.js", function () {
     sum = Util.sum(-30, 5);
     expect(sum).to.be.a('number');
   });
+
 });
